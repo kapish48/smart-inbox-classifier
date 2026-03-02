@@ -19,7 +19,7 @@ Customer support teams waste hundreds of hours manually reading and routing emai
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/kapish48/smart-inbox-classifier.git](https://github.com/kapish48/smart-inbox-classifier.git)
+git clone https://github.com/kapish48/smart-inbox-classifier.git
 cd smart-inbox-classifier
 
 **2. Install dependencies**
